@@ -21,6 +21,3 @@ theme:
         search: 83   # s
 extra_css:
   - stylesheets/custom.css
-plugins:
-    - mkdocs-video
-    - search
