@@ -1,0 +1,26 @@
+site_name: Helium 101
+repo_name: 'GitHub'
+repo_url: 'https://github.com/rdsaunders/helium-101'
+site_description: 'Helium 101, a knowledge base of all thing Helium'
+site_author: 'rdsaunders'
+copyright: 'Copyright &copy; 2021 Richard Saunders'
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/rdsaunders
+    - icon: fontawesome/brands/github
+      link: https://github.com/rdsaunders
+theme:
+  name: material
+  language: 'en'
+  shortcuts:
+        help: 191    # ?
+        next: 78     # n
+        previous: 80 # p
+        search: 83   # s
+extra_css:
+  - stylesheets/custom.css
+plugins:
+    - mkdocs-video
+    - search
