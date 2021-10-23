@@ -4,6 +4,16 @@
 What’s The Best Antenna For Your Helium Hotspot?
 https://gristleking.com/antennas-for-helium/
 
+
+Optimal indoor and outdoor wiring configurations ([RAK Docs](https://docs.rakwireless.com/Product-Categories/WisGate/RAK-Hotspot-Miner-v2/Troubleshooting/#scenario-3-outdoor-optimal))
+Lightning Arrestors (Amazon)
+Window pass through cables (McGill Microwave)
+Assertion (Helium Blog)
+
+
+[Paradar.co.uk](https://paradar.co.uk/products/868mhz-hnt-lora-antenna-long-range-4-5dbi)
+
+
 ## Bobcat
 
 The following information has been extracted from Bobcats own specification documents
