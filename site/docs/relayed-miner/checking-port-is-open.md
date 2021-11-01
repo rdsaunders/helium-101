@@ -10,8 +10,10 @@ Using a service like [Portchecker](https://portchecker.co/) is the quickest way 
 
 You'll need to update the port number from `21` to `44158`, then press **Check**. You should then see that the port is open.
 
-/port-checker-example.png
+![Open Port Checker](./assets/port-checker-example.png)
 
-If you don't see `Open` you will need to review your port forwarding settings and attempt again. 
+If you don't see `Open` you will need to review your port forwarding settings and attempt again.
 
-> **Note**: Some routers will require a restart for the changes to take affect. If you do restart your router give it 15-30minutes to fully restart before testing again.
+:::info
+Some routers will require a restart for the changes to take affect. If you do restart your router give it 15-30minutes to fully restart before testing again.
+:::

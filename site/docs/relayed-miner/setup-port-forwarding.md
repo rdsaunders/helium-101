@@ -1,7 +1,6 @@
 ---
 sidebar_position: 3
 ---
-
 # Setting up port forwarding
 
 With your static IP reservation in place, it's now time to set your router to allow incoming and outgoing TCP traffic for your miner via port 44158. You do this by going to a Port Forwarding menu in your router admin interface.
@@ -13,4 +12,4 @@ With your static IP reservation in place, it's now time to set your router to al
 5. You'll need to ensure this rule is enabled, usually via a checkbox or a dropdown menu.
 6. Save this rule.
 
-/port-forwarding-virgin-router.png
+![Port forwarding](./assets/port-forwarding-virgin-router.png)
