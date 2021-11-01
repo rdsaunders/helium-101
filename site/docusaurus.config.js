@@ -25,7 +25,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           // Please change this to your repo.
-          editUrl: 'https://github.com/rdsaunders/helium-101/edit/main/site/',
+          editUrl: 'https://github.com/rdsaunders/helium-101/edit/master/site/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -70,7 +70,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Helium 101. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
