@@ -1,5 +1,0 @@
-# Linxdot
-
-## Specification
-
-## Antenna specification
