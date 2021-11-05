@@ -1,0 +1,23 @@
+{
+  "type": "_heading",
+  "value": [
+    {
+      "type": "_fragment",
+      "value": "This "
+    },
+    {
+      "type": "_fragment",
+      "value": "is",
+      "properties": {
+        "decorators": ["emphasis"]
+      }
+    },
+    {
+      "type": "_fragment",
+      "value": " my heading"
+    }
+  ],
+  "properties": {
+    "level": 1
+  }
+}
