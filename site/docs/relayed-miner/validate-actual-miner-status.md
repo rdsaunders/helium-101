@@ -6,11 +6,9 @@ sidebar_position: 6
 
 So the Helium app is stating you are relayed. Before you make any changes to your router settings or start restarting your miner. You'll want to view the status directly from your router.
 
-[[INSERT IMAGE OF RELAYED STATUS]]
-
 If you are using a Bobcat miner then head to the web interface by entering the IP address of your miner in your web browser.
 
-/bobcat-miner-diagnoser.png (An example of the Bobcat Miner Diagnoser)
+![Bobcat miner diagnoser](./assets/bobcat-miner-diagnoser.png)
 
 Once the interface has loaded, press Miner (5s) this will take 5 seconds to load a JSON file containing information about your miner.
 
